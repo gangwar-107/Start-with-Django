@@ -1,0 +1,15 @@
+                                                                                                       COMMANDS FOR DJANGO
+
+d:  (Change to directory)
+cd tab (looking for directory)
+cls (clear screen)
+ctrl+c (restart server)
+
+Django
+django-admin startproject project name (start a project)
+python manage.py runserver (start a server)
+python manage.py startapp appname(start an app with a standard files stuffs)
+python manage.py migrate (migrate the database)
+python manage.py makemigrations appname(migrate the app)
+python manage.py migrate appname (migrate the app)
+python manage.py createsuperuser
